@@ -5,6 +5,8 @@ Rscripts snippets for the manuscript 'Dissecting the relationship between volati
 
 ## Pipeline Overview
 Part I. NHANES 2009-2014 analysis scripts
+
 Part II. Mendelian randomization analysis scripts
+
 Part III. Figure formatting scripts
 
